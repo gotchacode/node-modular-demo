@@ -1,0 +1,9 @@
+{
+  "name": "node-modular-demo",
+  "version": "0.1.1",
+  "description": "demo application to show modular applications in express",
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest"
+  }
+}

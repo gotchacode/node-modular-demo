@@ -1,0 +1,8 @@
+extends ../views/layout
+
+block content
+  form(action='/singup', method='post')
+    p: input(type='text', placeholder='Username')
+    p: input(type='password', placeholder='Password')
+    p: input(type='password', placeholder='Password')
+    p: input(type='submit', placeholder='Signup')
