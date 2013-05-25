@@ -6,6 +6,6 @@ var signup = require('./lib/signup')
 
 app.use(signup)
 app.use(login)
-
-app.listen(3000)
+var port = process.env.PORT || 3000
+app.listen(port)
 console.log('listening on port 3000')
