@@ -2,17 +2,14 @@
 
 This project shows how you can do modular development with express and node.
 - Inspiration : from @visionmedia [video on vimeo](http://vimeo.com/56166857) about modular development.
-- Why this project, etc! : `Interesting idea`.
+- Very interesting idea about modular app development with Node.
 
 ##Installation instruction
-- How to install
-    `npm install`
-- What is needed to install
-   `node and npm`
 - How to install on multi-platforms
     `check http://nodejs.org`
-##Where to get help
-- Links to docs, mailing list, wiki
+- How to get node modules:
+    `npm install`
+
 
 ##Contribution guidelines
 - How to contribute
@@ -25,7 +22,7 @@ This project shows how you can do modular development with express and node.
 
 ##Contributor list
 List of contributors of the project
-- Vinit Kumar (@vinitcool76)
+- Vinit Kumar (@vinitkumar)
 
 ##Credits, inspiration, Alternatives
 - All credit goes to [visionmedia](http://github.com/visionmedia)
