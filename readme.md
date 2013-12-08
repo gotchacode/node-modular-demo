@@ -1,7 +1,7 @@
 ##Description
 
 This project shows how you can do modular development with express and node.
-- Inspiration : from @visionmedia video on vimeo about modular development.
+- Inspiration : from @visionmedia [video on vimeo](http://vimeo.com/56166857) about modular development.
 - Why this project, etc! : `Interesting idea`.
 
 ##Installation instruction
