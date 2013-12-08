@@ -26,6 +26,7 @@ List of contributors of the project
 
 ##Credits, inspiration, Alternatives
 - All credit goes to [visionmedia](http://github.com/visionmedia)
+- An interesting blog article about this approach can be found [here] (http://benbuckman.net/tech/12/01/appsnewleafdigitalcom-building-suite-apps-nodejs) (search for "app mounting"). Source code [here](https://github.com/benbuckman/nld-apps-hq)
 
 
 
